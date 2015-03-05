@@ -1,3 +1,19 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+0 Something extra
+0 Respond to switch
+5 ReadMe.txt
+0 Not late
+
+
+Grade: 10/25
+
+Your code doesn't make sense.  Don't use a while(1), rather use setInterval.
+How does the analog read part ever run?
+
+================================================
+
   From : M.R.Srinath 
   Roll No: B12035
   Practical Name: LED Matrix (Lab 04) 
