@@ -1,0 +1,10 @@
+Project Ideas for Embedded Systems
+Date: 2/09/2015
+Author: Mark A Yoder
+Team Members
+Sanjeev Raidu B12029
+M.R.Srinath B12035
+
+1.	Traffic Light signal (where it can display the red, green and yellow lights at regular intervals by sensing the number of vehicles)
+2.	Led Clock (Displays the clock with all leds and displays the time according to that)
+3.	Motion Control (using gyro sensor)
